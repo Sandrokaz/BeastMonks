@@ -6,7 +6,7 @@ Welcome to the official repository of *Beast Monks Card Battle*, a prototype of 
 
 - **Multiplayer Battles**: Engage in thrilling multiplayer card battles with friends or players from around the globe.
 - **Unique Characters**: Each Beast Monk has unique abilities and strategies. Collect and master them all!
-- **Dynamic Gameplay**: Easy to learn yet challenging to master, our game mechanics are designed to keep you on your toes.
+- **Dynamic Gameplay**: Easy to learn yet challenging to master, my game mechanics are designed to keep you on your toes.
 - **Stunning Graphics**: Enjoy beautiful, detailed artwork that brings the world of Beast Monks to life.
 
 
